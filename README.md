@@ -1,6 +1,7 @@
 # Asrock-B360M-pro4-Big-Sur-Beta3
 
 ![b360M-pro4](https://user-images.githubusercontent.com/65073658/89132409-88414180-d51c-11ea-9b21-72c4a54b0d70.jpg)
+![crop_b360M](https://user-images.githubusercontent.com/65073658/89132566-c854f400-d51d-11ea-8761-4abfa1b69185.jpg)
 
 Big Sur Beta3 <br>
 Remote installed by USB installer.
