@@ -2,12 +2,20 @@
 
 ![b360M-pro4](https://user-images.githubusercontent.com/65073658/89132409-88414180-d51c-11ea-9b21-72c4a54b0d70.jpg)
 
-Big Sur Beta3
+Big Sur Beta3 <br>
+OpenCore 0.6.1
 
-Asrock B360M pro4
-i3 8100
-8GB RAM
-128Gb Plextor M2 Sata
+
+| @ | Hardware |
+| --- | --- |
+| Motherboard | Asrock B360M pro4 |
+| CPU | Intel i3 8100 |
+| RAM | 2x8GB |
+| GPU | UHD 630 |
+| Network | BCM94360CD |
+| Storage | Plextor S2G M2 Sata |
+
+
 
 ---
 
