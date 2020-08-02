@@ -3,7 +3,7 @@
 ![b360M-pro4](https://user-images.githubusercontent.com/65073658/89132409-88414180-d51c-11ea-9b21-72c4a54b0d70.jpg)
 
 Big Sur Beta3 <br>
-OpenCore 0.6.1
+Remote installed by USB installer.
 
 
 | @ | Hardware |
